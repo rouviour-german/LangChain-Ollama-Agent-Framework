@@ -56,6 +56,10 @@ This project is licensed under the MIT License.
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
